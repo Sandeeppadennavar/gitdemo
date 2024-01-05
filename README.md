@@ -1,3 +1,3 @@
 # gitdemo
 
-This is Readme file for gidemo repository
+This is readme file for gitdemo repository
